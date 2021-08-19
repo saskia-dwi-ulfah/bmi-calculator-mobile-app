@@ -7,6 +7,6 @@ Regarding this project, here's some notes for you:
 
 1. Code of this repository can be seen at master branch.
 
-<br>Thank you!</br>
+<br>Thank you!
 <br>Saskia Dwi Ulfah
 <br>(sdwiulfah@gmail.com)
