@@ -1,4 +1,4 @@
-# bmi-calculator-mobile-app
+# BMI Calculator Mobile App
 
 Hello friends!
 Thanks for taking the time to look at this repository. I really appreciate it!
